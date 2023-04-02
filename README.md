@@ -1,2 +1,2 @@
 # Automatic-blackboard-eraser
-Automatic erase blackboard control source
+This is the automatic erase blackboard control source. The demo video is linked below:
